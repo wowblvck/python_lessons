@@ -67,5 +67,5 @@ def draw_house_roof(x, y, width, height):
     print('Типа рисую крышу', x, y, width, height)
     pass
 
-
-main()
+if __name__ == '__main__':
+    main()
